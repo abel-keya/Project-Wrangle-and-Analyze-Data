@@ -1,9 +1,9 @@
 # Project-Wrangle-and-Analyze-Data
 # Problem Statement:
 Data data wrangling process of gathering, assessing, and cleaning data using Python to wrangle data programmatically and prepare it for deeper analysis.
-
+![data_wrangler(data_wrangler.png) 
 ![pap](pap.gif) 
-![data_wrangler(data_wrangler.gif) 
+
 
 
 
