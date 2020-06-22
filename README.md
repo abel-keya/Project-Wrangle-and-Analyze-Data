@@ -3,7 +3,7 @@
 Data wrangling process using Python to of gather, assess, and clean data programmatically for deeper analysis.
 
 
-<img src="data_wrangler.png" width="300"><img src="pap.gif" width="300">
+<img src="data_wrangler.png" width="450"><img src="pap.gif" width="450">
 
 
 Data source
