@@ -2,8 +2,8 @@
 # Problem Statement:
 Data wrangling process using Python to of gather, assess, and clean data programmatically for deeper analysis.
 
-![data_wrangler](data_wrangler.png){:height="12.5%" width="12.5%"}
-![pap](pap.gif){:height="12.5%" width="12.5%"} 
+![data_wrangler](data_wrangler.png?v=4&s=200)
+![pap](pap.gif?v=4&s=200)
 
 
 
