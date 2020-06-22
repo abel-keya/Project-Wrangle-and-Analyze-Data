@@ -2,10 +2,9 @@
 # Problem Statement:
 Data wrangling process using Python to of gather, assess, and clean data programmatically for deeper analysis.
 
-#![data_wrangler](data_wrangler.png?v=4&s=50)
-#![pap](pap.gif?v=4&s=50)
-img src="data_wrangler.png" width="300">
-img src="pap.gif" width="300">
+
+<img src="data_wrangler.png" width="300">
+<img src="pap.gif" width="300">
 
 
 Data source
