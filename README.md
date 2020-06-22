@@ -8,7 +8,8 @@
 <img src="data_wrangler.png" width="300" width="550"><img src="pap.gif" width="550">
 
 
-Data source
+Data sources
+
 This project involves the data wrangling work for Data collected from WeRateDogs tweeter handle.
 
 [Dataset1](https://github.com/abel-keya/Project-Communicate-Data-Findings/blob/master/house_prices.csv):
