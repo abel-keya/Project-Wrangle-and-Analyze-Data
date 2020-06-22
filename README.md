@@ -2,7 +2,7 @@
 
 # Problem Statement:
 
-# Data wrangling process using Python to of gather, assess, and clean data programmatically for deeper analysis.
+### Data wrangling process using Python to of gather, assess, and clean data programmatically for deeper analysis.
 
 
 <img src="data_wrangler.png" width="300" width="550"><img src="pap.gif" width="550">
