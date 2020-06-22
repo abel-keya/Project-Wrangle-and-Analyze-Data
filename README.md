@@ -1,7 +1,9 @@
 # Project-Wrangle-and-Analyze-Data
 # Problem Statement:
 Data data wrangling process of gathering, assessing, and cleaning data using Python to wrangle data programmatically and prepare it for deeper analysis.
+
 ![data_wrangler(data_wrangler.png) 
+
 ![pap](pap.gif) 
 
 
@@ -9,6 +11,7 @@ Data data wrangling process of gathering, assessing, and cleaning data using Pyt
 
 Data source
 This project involves the data wrangling work for Data collected from WeRateDogs tweeter handle.
+
 [Dataset1](https://github.com/abel-keya/Project-Communicate-Data-Findings/blob/master/house_prices.csv):
 
 [Dataset2](https://github.com/abel-keya/Project-Communicate-Data-Findings/blob/master/house_prices.csv)
