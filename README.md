@@ -8,7 +8,7 @@
 <img src="data_wrangler.png" width="300" width="550"><img src="pap.gif" width="550">
 
 
-Data sources
+## Data sources
 
 This project involves the data wrangling work for Data collected from WeRateDogs tweeter handle.
 
@@ -41,7 +41,7 @@ by applying the steps define, code, and test
 (v)Analyze the data to give insights
 
 The master dataset is analyzed using pandas or SQL in the Jupyter Notebook and at least three (3) separate insights are produced and create atleast one (1) labeled visualization is produced in the Jupyter Notebook using Python’s plotting libraries or in Tableau.
-
+# Context
 # Requirements
 * Anaconda installation
 * Google colab
