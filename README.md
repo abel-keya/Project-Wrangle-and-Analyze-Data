@@ -52,9 +52,9 @@ The dataset wrangled was obtained from the tweet archive of Twitter user @dog_ra
 
 * Anaconda installation
 * Google colab
-* requests
-* tweepy
-* json
+* requests module
+* tweepy API
+* json module
 *  Sublime
 
 * Setup instruction
