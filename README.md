@@ -12,11 +12,12 @@
 
 This project involves the data wrangling work for Data collected from WeRateDogs tweeter handle.
 
-[Dataset1](https://github.com/abel-keya/Project-Communicate-Data-Findings/blob/master/house_prices.csv):
+    
+[Dataset1](https://github.com/abel-keya/Project-Wrangle-and-Analyze-Data/blob/master/twitter_archive_master.csv)
 
-[Dataset2](https://github.com/abel-keya/Project-Communicate-Data-Findings/blob/master/house_prices.csv)
+[Dataset2](https://github.com/abel-keya/Project-Wrangle-and-Analyze-Data/blob/master/image-predictions.tsv)
 
-[Dataset3](https://github.com/abel-keya/Project-Communicate-Data-Findings/blob/master/house_prices.csv)
+[Dataset3](https://github.com/abel-keya/Project-Wrangle-and-Analyze-Data/blob/master/twitter_json.txt)
 
 
 
