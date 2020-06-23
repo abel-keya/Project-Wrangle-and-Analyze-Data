@@ -42,11 +42,23 @@ by applying the steps define, code, and test
 (v)Analyze the data to give insights
 
 The master dataset is analyzed using pandas or SQL in the Jupyter Notebook and at least three (3) separate insights are produced and create atleast one (1) labeled visualization is produced in the Jupyter Notebook using Python’s plotting libraries or in Tableau.
+
 # Context
+
+dataset wrangled was obtained from the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
+
+
 # Requirements
+
 * Anaconda installation
 * Google colab
+* requests
+* tweepy
+* json
+*  Sublime
+
 * Setup instruction
+
 > * Save a copy of the notebook in your drive and open it to access.
 
 <p align="center">
