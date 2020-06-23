@@ -23,7 +23,7 @@ This project involves the data wrangling work for Data collected from WeRateDogs
 
 # Description
 
-in this project it is required to:
+In this project it is required to:
 
 (i) Gather data;
 
